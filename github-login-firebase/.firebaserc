@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "samplefb-5f444": {
+      "hosting": {
+        "github-login-firebase": [
+          "samplefb-5f444"
+        ]
+      }
+    }
+  }
+}
